@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bot Controller</string>
+    <string name="speed_string">Speed=0%</string>
+    <string name="direction_string">Direction=0%</string>
+</resources>
