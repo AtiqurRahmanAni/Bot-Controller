@@ -85,7 +85,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="243dp"
         android:fontFamily="sans-serif"
-        android:text="Team Fury"
+        android:text="Augmentors"
         android:textColor="@color/red"
         android:textSize="@dimen/_30sdp"
         android:textStyle="bold"
